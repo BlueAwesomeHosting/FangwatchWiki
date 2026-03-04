@@ -1,0 +1,103 @@
+.move-card {
+  display: flex;
+  border: 1px solid;
+  padding: 1rem;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  align-items: flex-start;
+}
+
+.move-card img {
+  width: 160px;
+  height: auto;
+  margin-top: 70px;
+  border-radius: 0.25rem;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.move-content {
+  flex: 1;
+}
+
+.move-content h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.move-frame-data {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 0.8rem;
+  font-size: 0.9rem;
+}
+
+.move-frame-data th,
+.move-frame-data td {
+  border: 1px solid #444;
+  padding: 0.4rem 0.6rem;
+  text-align: center;
+}
+
+.move-frame-data th {
+  font-weight: bold;
+}
+
+.move-frame-data td {
+}
+
+.move-description ul {
+  padding-left: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.move-description li {
+  margin-bottom: 0.3rem;
+}
+
+.move-card code {
+  background: #222;
+  padding: 0.1rem 0.3rem;
+  border-radius: 4px;
+}  
+
+.move-card code {
+    border-radius: 1px;
+  box-shadow: 0px 0px 0px 1px rgba(255,255,255,0.1);
+}
+
+code.input-A { color: #f55; }     /* red for A */
+code.input-B { color: #4e8fff; }  /* blue for B */
+code.input-C { color: #3cf59b; }  /* green for C */
+code.input-X { color: coral; }
+
+}
+
+.move-description blockquote {
+  border-left: 4px solid #f55;
+  padding-left: 0.8rem;
+  margin: 0.6rem 0 0;
+  color: #faa;
+  font-style: italic;
+}
+
+.frame-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px; /* consistent spacing between squares */
+  margin-top: 8px;
+}
+
+.frame {
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box; /* ensures no extra padding/margin screws it up */
+  border-radius: 2px;
+  display: block; /* more reliable than inline-block inside flex */
+  flex-shrink: 0;  /* don't let flex squash these */
+}
+
+.frame.startup  { background-color: #3cf59b; } /* green */
+.frame.active   { background-color: #ff4e4e; } /* red */
+.frame.recovery { background-color: #4e8fff; } /* blue */

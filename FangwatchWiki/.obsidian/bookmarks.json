@@ -1,0 +1,256 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1708236355418,
+      "path": "Project/TGAAD/Music/Tracklists/TGAA - Departures OST.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1713286383041,
+      "path": "Not Sorted/07 - Archive/05 - School/UVUSpring2024/Game Plan.md",
+      "title": ""
+    },
+    {
+      "type": "file",
+      "ctime": 1713286413479,
+      "path": "00 - Priority Projects/Light After Sound/Master Doc.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1762895725412,
+      "path": "About/Dark War in the Holy Land.md"
+    },
+    {
+      "type": "graph",
+      "ctime": 1762987802864,
+      "title": "Graph Default",
+      "options": {
+        "collapse-filter": false,
+        "search": "-path:Backend ",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": true,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "tag:#character  ",
+            "color": {
+              "a": 1,
+              "rgb": 9420799
+            }
+          },
+          {
+            "query": "tag:#world",
+            "color": {
+              "a": 1,
+              "rgb": 13654104
+            }
+          },
+          {
+            "query": "tag:#info",
+            "color": {
+              "a": 1,
+              "rgb": 4184522
+            }
+          },
+          {
+            "query": "tag:#location",
+            "color": {
+              "a": 1,
+              "rgb": 14926717
+            }
+          },
+          {
+            "query": "tag:#meta",
+            "color": {
+              "a": 1,
+              "rgb": 16777215
+            }
+          },
+          {
+            "query": "tag:#object",
+            "color": {
+              "a": 1,
+              "rgb": 15375989
+            }
+          },
+          {
+            "query": "tag:#event",
+            "color": {
+              "a": 1,
+              "rgb": 5395168
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": false,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.3226487630864159,
+        "close": true
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1762987829331,
+      "title": "Graph No Orphans",
+      "options": {
+        "collapse-filter": false,
+        "search": "-path:Backend ",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": true,
+        "showOrphans": false,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "tag:#character  ",
+            "color": {
+              "a": 1,
+              "rgb": 9420799
+            }
+          },
+          {
+            "query": "tag:#world",
+            "color": {
+              "a": 1,
+              "rgb": 13654104
+            }
+          },
+          {
+            "query": "tag:#info",
+            "color": {
+              "a": 1,
+              "rgb": 4184522
+            }
+          },
+          {
+            "query": "tag:#location",
+            "color": {
+              "a": 1,
+              "rgb": 14926717
+            }
+          },
+          {
+            "query": "tag:#meta",
+            "color": {
+              "a": 1,
+              "rgb": 16777215
+            }
+          },
+          {
+            "query": "tag:#object",
+            "color": {
+              "a": 1,
+              "rgb": 15375989
+            }
+          },
+          {
+            "query": "tag:#event",
+            "color": {
+              "a": 1,
+              "rgb": 5395168
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": false,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.3226487630864159,
+        "close": true
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1763164641778,
+      "title": "Graph No Placeholders",
+      "options": {
+        "collapse-filter": false,
+        "search": "-path:Backend -[\"progress\":placeholder]",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": true,
+        "showOrphans": false,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "tag:#character  ",
+            "color": {
+              "a": 1,
+              "rgb": 9420799
+            }
+          },
+          {
+            "query": "tag:#world",
+            "color": {
+              "a": 1,
+              "rgb": 13654104
+            }
+          },
+          {
+            "query": "tag:#info",
+            "color": {
+              "a": 1,
+              "rgb": 4184522
+            }
+          },
+          {
+            "query": "tag:#location",
+            "color": {
+              "a": 1,
+              "rgb": 14926717
+            }
+          },
+          {
+            "query": "tag:#meta",
+            "color": {
+              "a": 1,
+              "rgb": 16777215
+            }
+          },
+          {
+            "query": "tag:#object",
+            "color": {
+              "a": 1,
+              "rgb": 15375989
+            }
+          },
+          {
+            "query": "tag:#event",
+            "color": {
+              "a": 1,
+              "rgb": 5395168
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": false,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.3226487630864159,
+        "close": false
+      }
+    }
+  ]
+}

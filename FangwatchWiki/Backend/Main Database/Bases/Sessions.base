@@ -1,0 +1,18 @@
+views:
+  - type: list
+    name: List
+    filters:
+      and:
+        - file.tags.contains("session")
+    groupBy:
+      property: case
+      direction: ASC
+    order:
+      - date
+      - file.name
+    sort:
+      - property: date ran
+        direction: ASC
+    markers: number
+    indentProperties: false
+    separator: ""

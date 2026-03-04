@@ -1,0 +1,68 @@
+/* Define the necessary variables */
+:root {
+  --paper-fold-corner-angle: 45deg;
+  --paper-fold-corner-diag: 20px;
+  --corner-height: 10px;
+  --corner-width: 10px;
+  /* --postit-color is no longer used since we want transparency behind the stripes */
+}
+
+.wiki-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  overflow: hidden; /* Prevent overflow */
+}
+
+.wiki-gallery img {
+  max-width: 300px; /* Set the desired width */
+  max-height: 300px; /* Set the desired height */
+  object-fit: cover; /* Ensures the image fills the container without distortion */
+  object-position: top center; /* Favors the top half of the image */
+  border-radius: 0px; /* No border radius */
+  border: 1px solid #ccc; /* Optional border around the image */
+  margin: 0;
+  
+  
+  overflow: hidden;
+  transition: transform 0.2s ease-in-out; /* Smooth zoom effect on hover */
+}
+
+.wiki-gallery img:hover {
+  transform: scale(1); /* Adjust hover effect as desired */
+}
+
+.wiki-gallery figure {
+  text-align: center;
+  margin: 10px;
+  position: relative;
+}
+
+.wiki-gallery img {
+  width: 100%;
+  max-width: 300px;
+  max-height: 300px;
+  object-fit: cover;
+}
+
+.wiki-gallery figcaption {
+  margin-top: 10px;
+}
+
+.wiki-gallery .image-link {
+  font-size: 14px;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.wiki-gallery .image-link:hover {
+  text-decoration: underline;
+}
+
+/* Ensure the image caption link is not covered by other elements */
+.wiki-gallery figure a {
+  position: relative;
+  z-index: 1;
+}
+

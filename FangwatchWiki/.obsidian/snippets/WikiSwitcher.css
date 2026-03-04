@@ -1,0 +1,20 @@
+.callout-tab {
+    padding: 5px 15px;
+    text-decoration: none;
+    color: var(--text-normal); /* Uses default text color */
+    background-color: var(--background-secondary); /* Matches Obsidian's secondary background */
+    border-radius: 0px;
+    margin-right: 5px;
+    transition: background 0.3s ease-in-out;
+}
+
+.callout-tab:hover {
+    background-color: var(--background-modifier-hover); /* Uses Obsidian's hover effect */
+}
+
+.callout-tab.active {
+    background-color: var(--interactive-accent); /* Uses theme's accent color */
+    color: var(--text-on-accent); /* Ensures text color contrasts properly */
+    font-weight: bold;
+}
+

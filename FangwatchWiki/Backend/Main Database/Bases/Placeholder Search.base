@@ -1,0 +1,39 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - progress == "placeholder"
+    order:
+      - file.name
+      - file.mtime
+    sort:
+      - property: file.ctime
+        direction: ASC
+    image: note.image
+    cardSize: 130
+    imageFit: ""
+    imageAspectRatio: 1.25
+  - type: table
+    name: Table
+    filters:
+      and:
+        - progress == "placeholder"
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+      - tags
+      - file.backlinks
+    sort:
+      - property: file.backlinks
+        direction: DESC
+      - property: file.ctime
+        direction: DESC
+      - property: tags
+        direction: DESC
+    columnSize:
+      file.name: 216
+      file.ctime: 179
+      file.mtime: 180
+      note.tags: 129

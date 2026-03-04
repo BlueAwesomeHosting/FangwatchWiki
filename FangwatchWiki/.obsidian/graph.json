@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "-path:Backend ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#character  ",
+      "color": {
+        "a": 1,
+        "rgb": 9420799
+      }
+    },
+    {
+      "query": "tag:#world",
+      "color": {
+        "a": 1,
+        "rgb": 13654104
+      }
+    },
+    {
+      "query": "tag:#info",
+      "color": {
+        "a": 1,
+        "rgb": 4184522
+      }
+    },
+    {
+      "query": "tag:#location",
+      "color": {
+        "a": 1,
+        "rgb": 14926717
+      }
+    },
+    {
+      "query": "tag:#meta",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#object",
+      "color": {
+        "a": 1,
+        "rgb": 15375989
+      }
+    },
+    {
+      "query": "tag:#event",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.3226487630864159,
+  "close": true
+}

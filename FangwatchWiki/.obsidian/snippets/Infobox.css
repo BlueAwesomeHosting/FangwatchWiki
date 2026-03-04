@@ -1,0 +1,295 @@
+/* =========================================================
+   INFOBOX (Obsidian callout: [!infobox])
+   ========================================================= */
+
+/* =========================================================
+   LAYOUT
+   ========================================================= */
+
+/* Mobile / Live Preview: center, no float */
+:is(.is-mobile:not(.is-tablet),
+.is-mobile .is-live-preview,
+.is-live-preview :not(.markdown-rendered))
+.callout[data-callout~="infobox"]:not([data-callout-metadata~="mobile"]) {
+  float: none !important;
+  max-width: 100%;
+  width: 600px;
+  margin: 1rem auto !important;
+  display: block;
+}
+
+/* Desktop infobox core */
+.markdown-rendered .callout[data-callout~="infobox"] {
+  position: relative;              /* NEVER sticky */
+  float: right;
+  margin: 0 0 1em 1em;
+  max-width: 340px;                /* slim infobox */
+
+  background: var(--note, var(--background-primary));
+  border: 0;
+  border-radius: var(--radius-s);
+  box-shadow: none;
+
+  /* Callout spacing */
+  --callout-padding: 0.em;
+  --callout-content-padding: 8px;
+  --callout-margin: 0;
+
+  /* Safety */
+  width: auto;                     /* replaces invalid width values */
+  max-height: none;
+  overflow: visible;
+  z-index: 1;
+}
+
+/* =========================================================
+   TITLE / ICON (removes the "paperclip" / callout icon)
+   ========================================================= */
+
+/* Hide the whole callout title row by default */
+.callout[data-callout~="infobox"] > .callout-title {
+  display: none;
+}
+
+/* Optional: show title row only when explicitly requested */
+.callout[data-callout~="infobox"]
+:is([data-callout-metadata~=show-title], [data-callout-metadata~=s-t])
+> .callout-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  background: transparent;
+}
+
+/* Never show callout icon/fold (this is what often looks like a paperclip) */
+.callout[data-callout~="infobox"] :is(.callout-icon, .callout-fold) {
+  display: none !important;
+}
+
+/* If title is shown, keep it clean */
+.callout[data-callout~="infobox"]
+:is([data-callout-metadata~=show-title], [data-callout-metadata~=s-t])
+.callout-title .callout-title-inner {
+  padding: 5px 10px;
+  letter-spacing: 0.08em;
+}
+
+/* =========================================================
+   CONTENT FRAME
+   ========================================================= */
+
+.callout[data-callout~="infobox"] > .callout-content {
+  border: 1px solid var(--table, var(--background-modifier-border));
+  border-radius: var(--radius-s);
+  margin: 0;
+}
+
+/* RED BORDER YAY */
+:is(.markdown-rendered,
+    .markdown-source-view.is-live-preview .markdown-preview-section)
+.callout[data-callout~="infobox"] > .callout-content {
+  outline: 4px solid #7a1111 !important;
+}
+
+/* Remove vertical spacing noise */
+.callout[data-callout~="infobox"] :is(p, table) { margin: 0; }
+
+/* =========================================================
+   HEADINGS INSIDE INFOBOX (ALL CAPS)
+   ========================================================= */
+
+.callout[data-callout~="infobox"] .callout-content > :is(h1,h2,h3,h4,h5,h6) {
+  font-size: 20px;
+  text-align: center;
+  padding: 8px;
+  margin: 0;
+
+  color: var(--text-normal);
+  background: var(--outer-bar, var(--background-secondary));
+
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+/* =========================================================
+   FIELD LABELS
+   ========================================================= */
+
+body :is(.markdown-rendered, .markdown-source-view.is-live-preview)
+.callout[data-callout~="infobox"] summary:not(details > summary) {
+  color: var(--bold-accent-ink);
+  font-weight: 800 !important;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+
+  display: block;
+  padding-top: 0.8em;
+  border-top: 1px solid var(--background-modifier-border);
+}
+
+/* =========================================================
+   TABLES (GENERAL)
+   ========================================================= */
+
+.callout[data-callout~="infobox"] table { width: 100%; }
+
+.callout[data-callout~="infobox"] table :is(td, th) {
+  padding: 2px 6px;
+  vertical-align: middle !important;
+  white-space: pre-wrap;
+  word-break: normal;
+}
+
+.callout[data-callout~="infobox"] table a { font-weight: 400 !important; }
+
+/* Keep table images behaving like inline icons */
+.callout[data-callout~="infobox"] table :is(td, th) img {
+  display: inline-block !important;
+  vertical-align: middle;
+  max-width: 25px;
+  height: auto;
+  margin-left: 1px;
+}
+
+/* Prevent auto-bold table headers inside thead (Obsidian sometimes uses both) */
+.callout[data-callout~="infobox"] table thead th {
+  font-weight: inherit !important;
+}
+
+/* =========================================================
+   IMAGES (non-table)
+   ========================================================= */
+
+.callout[data-callout~="infobox"] img {
+  height: auto;
+  width: auto;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+/* Keep embeds from overflowing the box */
+.callout[data-callout~="infobox"] .internal-embed { max-width: 100%; }
+
+/* =========================================================
+   DETAILS DROPDOWNS (FOLDER SECTIONS)
+   ========================================================= */
+
+/* Top-level details look */
+.callout[data-callout^="infobox"] details {
+  position: relative;
+  overflow: hidden;
+}
+
+.callout[data-callout^="infobox"] details > summary {
+  background-color: #32302e;
+  text-align: center;
+  cursor: pointer;
+
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+/* Hover */
+.callout[data-callout^="infobox"] details > summary:hover {
+  background-color: #635656;
+}
+
+/* Tables inside details: equal columns automatically */
+.callout[data-callout~="infobox"] details table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+/* Prevent long text/icons from forcing weird widths */
+.callout[data-callout~="infobox"] details table :is(th, td) {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: center;
+  border: none;
+  padding: 0.4em 0.6em;
+}
+
+/* TH border only when you bold the header text (**...**) */
+.callout[data-callout~="infobox"] details table th:has(strong) {
+  border: 1px solid var(--table, var(--background-modifier-border));
+  border-radius: var(--radius-s);
+}
+
+/* =========================================================
+   NESTED DETAILS (details inside details)
+   ========================================================= */
+
+/* Keep nested details readable but visually lighter */
+.callout[data-callout~="infobox"] details details {
+  text-align: left;
+  margin-left: 1.3em;
+  background: transparent !important;
+}
+
+/* Remove the grey summary background for nested dropdowns */
+.callout[data-callout^="infobox"] details details > summary {
+  background-color: transparent;
+  text-align: center;
+  font-style: italic;        /* nested summaries read like asides */
+  text-transform: none;      /* nested is not "SECTION HEADER" */
+  letter-spacing: 0;
+}
+
+/* Remove the white arrow */
+.callout[data-callout~="infobox"] details details > summary {
+  list-style: none;
+}
+
+.callout[data-callout~="infobox"] details details > summary::-webkit-details-marker {
+  display: none;
+}
+/* Allow markdown italics/bold to behave normally inside nested details */
+.callout[data-callout~="infobox"] details details em { font-style: italic; }
+.callout[data-callout~="infobox"] details details strong { font-weight: 700; }
+
+/* Lists inside nested details */
+.callout[data-callout~="infobox"] details details li {
+  text-align: left;
+  margin-left: 0.1em;
+}
+
+/* =========================================================
+   NESTED INFOBOXES (disable float inside)
+   ========================================================= */
+
+.callout[data-callout~="infobox"] .callout[data-callout~="infobox"] {
+  float: none;
+  max-width: 100%;
+  margin: 5px 0 0 0;
+}
+
+/* =========================================================
+   WIKIPEDIA VARIANT
+   ========================================================= */
+
+.callout[data-callout~="infobox"][data-callout-metadata~=wikipedia] table {
+  --table-header-background: transparent;
+  --table-border-color: transparent;
+  --table-row-alt-background: transparent;
+}
+
+/* =========================================================
+   PRINT & MOBILE SAFETY
+   ========================================================= */
+
+@media print {
+  .callout[data-callout~="infobox"] {
+    max-width: 400px;
+    float: right;
+  }
+}
+
+@media (max-width: 400px) {
+  .callout[data-callout~="infobox"] {
+    float: none;
+    margin: 1rem auto;
+    max-width: 100%;
+  }
+}
+

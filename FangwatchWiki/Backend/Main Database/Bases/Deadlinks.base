@@ -1,0 +1,19 @@
+formulas:
+  Deadlinks: file.links.filter(!value.asFile().isTruthy())
+  backlinks number: file.links.length
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - "!formula.Deadlinks.isEmpty()"
+    order:
+      - file.name
+      - formula.Deadlinks
+    sort:
+      - property: formula.backlinks number
+        direction: DESC
+    columnSize:
+      file.basename: 220
+      formula.Deadlinks: 853
+    cardSize: 740

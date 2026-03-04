@@ -1,0 +1,275 @@
+@charset "UTF-8";
+
+/* =========================================================
+   CALLOUT CLEAN RESET
+   ========================================================= */
+
+/* Remove animations everywhere */
+.callout,
+.callout * {
+  animation: none !important;
+  transition: none !important;
+}
+
+/* Remove callout icons */
+.callout .callout-icon {
+  display: none !important;
+}
+
+/* Remove fold arrow animation */
+.callout .callout-fold {
+  transition: none !important;
+}
+
+/* =========================================================
+   TITLE CLEANUP
+   ========================================================= */
+
+/* Remove underline and spacing */
+.callout > .callout-title {
+  border-bottom: none !important;
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* Remove pseudo underline used by themes */
+.callout > .callout-title::after {
+  display: none !important;
+  content: none !important;
+}
+
+/* Remove gap after title */
+.callout > .callout-content > :first-child {
+  margin-top: 0 !important;
+}
+
+/* =========================================================
+   PAPER TOC STYLE
+   ========================================================= */
+
+.callout[data-callout-metadata~=paper] {
+  background: var(--background-color);
+  border: 0.1px solid var(--background-modifier-border);
+  box-shadow: none;
+}
+
+.callout[data-callout-metadata~=paper] td {
+  border: 0.1px solid var(--background-modifier-border);
+}
+
+.callout[data-callout-metadata~=paper] > .callout-content {
+  padding: 10px 14px;
+  
+}
+
+/* Paper title */
+.callout[data-callout-metadata~=paper] > .callout-title {
+  justify-content: center;
+  text-align: center;
+}
+
+/* Title text */
+.callout[data-callout-metadata~=paper] .callout-title-inner {
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+/* PAPER: keep 3 tables on one row WITHOUT resizing table internals */
+.callout[data-callout-metadata~="paper"] > .callout-content{
+  display: flex;
+  flex-wrap: nowrap;            /* stay on one row */
+  gap: 16px;
+  align-items: flex-start;      /* fixes vertical offset */
+  justify-content: space-between;
+  overflow-x: auto;             /* prevents forced squeezing */
+}
+
+/* Obsidian table wrapper */
+.callout[data-callout-metadata~="paper"] > .callout-content > .table-wrapper{
+  flex: 0 0 auto;               /* do not shrink/grow */
+  align-self: flex-start;       /* fixes vertical offset */
+  margin: 0;
+}
+
+/* Fallback if your tables aren't wrapped */
+.callout[data-callout-metadata~="paper"] > .callout-content > table{
+  flex: 0 0 auto;
+  align-self: flex-start;
+  margin: 0;
+}
+
+/* Ensure tables keep their natural sizing */
+.callout[data-callout-metadata~="paper"] table{
+  width: auto;
+  table-layout: auto;
+  margin: 0;
+}
+
+/* =========================================================
+   PAPER LISTS
+   ========================================================= */
+
+.callout[data-callout-metadata~=paper] ul,
+.callout[data-callout-metadata~=paper] ol {
+  margin: 0;
+  padding-left: 1.2em;
+  
+}
+
+.callout[data-callout-metadata~=paper] li {
+  margin: 0.2em 0;
+}
+
+/* =========================================================
+   POSITIONING METADATA
+   ========================================================= */
+
+.callout[data-callout-metadata~="left"] {
+  float: left;
+  margin-right: 8px;
+}
+
+.callout[data-callout-metadata~="right"] {
+  float: right;
+  margin-left: 8px;
+}
+
+.callout[data-callout-metadata~="center"] {
+  margin: 0 auto;
+  float: none;
+}
+
+/* Paper callout: table styling only */
+.callout[data-callout-metadata~="paper"] table {
+  border-collapse: collapse;
+}
+
+
+/* Ensure links stay readable */
+.callout[data-callout-metadata~="paper"] table a {
+  color: black;
+}
+
+/* Paper callout content only as wide as its contents */
+.callout[data-callout-metadata~="paper"] .callout-content {
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Wiki Quote */
+.callout[data-callout="cite"] {
+  all: unset;
+  display: block;
+  width: 100%;
+  margin: 1em auto;
+  font-size: 0.95em;
+  color: var(--text-muted);
+  text-align: center;
+}
+
+.callout[data-callout="cite"] > .callout-title {
+  all: unset;
+  display: block;
+  font-style: italic;
+  font-size: 1em;
+  font-weight: normal;
+  margin-bottom: 0.5em;
+}
+
+.callout[data-callout="cite"] > .callout-title .callout-icon {
+  display: none;
+}
+
+/* Image aligner */
+
+div[data-callout~="imager"] {
+  float: right;
+  position: relative;
+  margin: 8px;
+  width: 35%;
+  max-width: 300px;
+  overflow: hidden;
+  clear: none;
+  --callout-color: none;
+}
+
+div.callout[data-callout~="imager"] > div.callout-title {
+  display: none;
+}
+
+.is-live-preview .callout[data-callout~="imager"] {
+  float: unset;
+}
+
+/* Image wrapping adjustments */
+div[data-callout~="imager"] img {
+  float: right; /* Ensure the image is floated right */
+  margin-top: 5px; /* Adjust top spacing */
+  margin-right: 10px; /* Add space on the right */
+  margin-bottom: 10px; /* Add space below the image */
+  margin-left: 10px; /* Add space on the left */
+  padding-left: 20px;
+  max-width: 100%; /* Ensure the image scales to fit its container */
+  height: auto; /* Maintain aspect ratio */
+  display: inline-block;/* Ensure it's inline so text wraps around */
+}
+
+/* Optional: Ensure content inside the callout adjusts well */
+div[data-callout~="imager"] p {
+  margin-top: 0; /* Prevent extra top margin for paragraphs */
+  line-height: 1.6; /* Adjust line height for better readability */
+  font-size: 80%;
+}
+
+div[data-callout~="imagel"] {
+  float: left;
+  position: relative;
+  margin: 8px;
+  width: 35%;
+  max-width: 300px;
+  overflow: hidden;
+  clear: none;
+  --callout-color: none;
+}
+
+div[data-callout~="imager"],
+div[data-callout~="imagel"] {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+}
+
+div.callout[data-callout~="imagel"] > div.callout-title {
+  display: none;
+}
+
+.is-live-preview .callout[data-callout~="imagel"] {
+  float: unset;
+}
+
+/* Image wrapping adjustments */
+div[data-callout~="imagel"] img {
+  float: left; /* Ensure the image is floated right */
+  margin-top: 5px; /* Adjust top spacing */
+  margin-right: 10px; /* Add space on the right */
+  margin-bottom: 10px; /* Add space below the image */
+  margin-left: 10px; /* Add space on the left */
+  padding-right: 20px;
+  max-width: 100%; /* Ensure the image scales to fit its container */
+  height: auto; /* Maintain aspect ratio */
+  display: inline-block;/* Ensure it's inline so text wraps around */
+}
+
+/* Optional: Ensure content inside the callout adjusts well */
+div[data-callout~="imagel"] p {
+  margin-top: 0; /* Prevent extra top margin for paragraphs */
+  line-height: 1.6; /* Adjust line height for better readability */
+  font-size: 80%;
+}
+
+.notice-container {
+  display: none !important;
+}

@@ -1,0 +1,24 @@
+{
+  "accentColor": "#cd5151",
+  "cssTheme": "RetroNotes",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "textFontFamily": "Tamil MN",
+  "interfaceFontFamily": "Andale Mono",
+  "enabledCssSnippets": [
+    "Gallery",
+    "Infobox3",
+    "InfoboxCurrent",
+    "EthanInfoboxNCallouts",
+    "WikiSwitcher",
+    "move-card",
+    "Infobox_cleaned",
+    "Callouts_cleaned",
+    "BiggerLineLength",
+    "Callouts",
+    "Infobox"
+  ],
+  "nativeMenus": false,
+  "showRibbon": true,
+  "baseFontSizeAction": true
+}
