@@ -21,9 +21,6 @@ sourcepage: "Central Utah Fangwatch"
 > ## Mina Harker
 > ![[mina-portrait.png]]
 =======
-> ## Mina
-> ![[their-portrait.png]]
->
 > <summary>Full Name</summary>
 >
 > | Wilhlemina Murray Harker |
