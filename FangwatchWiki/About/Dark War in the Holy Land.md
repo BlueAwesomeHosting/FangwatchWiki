@@ -2,6 +2,9 @@
 banner: "![[Fangwatch.png]]"
 ---
 ---
+banner: "![[Fangwatch.png]]"
+---
+---
 tags:
   - meta
 progress: placeholder

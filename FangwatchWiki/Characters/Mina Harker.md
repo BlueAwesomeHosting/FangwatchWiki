@@ -8,7 +8,7 @@ player: Madi
 clan: Tzimisce
 progress: placeholder
 image:
-  - - their-portrait.png
+  - - mina-portrait.png
 sourcepage: "Central Utah Fangwatch"
 ---
 <br>
@@ -18,8 +18,8 @@ sourcepage: "Central Utah Fangwatch"
 </div>
 
 >[!infobox]
-> ## Mina
-> ![[their-portrait.png]]
+> ## Mina Harker
+> ![[mina-portrait.png]]
 >
 > <summary>Full Name</summary>
 >
