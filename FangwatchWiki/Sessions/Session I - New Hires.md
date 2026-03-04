@@ -43,7 +43,7 @@ description: A little over one month ago, Mina Harker ran a test case with three
 |---|
 > <summary>Runtime</summary>
 >
-| 51:47|
+| 5:22:06 |
 |---|
 >
 | **Previous** | **Next** |
@@ -57,7 +57,7 @@ description: A little over one month ago, Mina Harker ran a test case with three
 
 **New Hires** Is the first official session of [[Dark War in the Holy Land]], taking place a month after the [[Fangwatch Field Test]] oneshot.
 
-A recently embraced vampire named [[Bartleby Ortiz]] is recruited into the Fangwatch by [[Mina]]. Four other recruits receive letters, and meet up in a designated location in Salt Lake City, Utah. After they are given a tour of the Fangwatch HQ, the new recruits begin their first mission: investigating a suspected vampire named Anna Callaghan.
+A recently embraced vampire named [[Bartleby Ortiz]] is recruited into the Fangwatch by [[Mina Harker]]. Four other recruits receive letters, and meet up in a designated location in Salt Lake City, Utah. After they are given a tour of the Fangwatch HQ, the new recruits begin their first mission: investigating a suspected vampire named Anna Callaghan.
 
 ```table-of-contents
 title:
