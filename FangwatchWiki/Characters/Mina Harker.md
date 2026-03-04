@@ -8,7 +8,11 @@ player: Madi
 clan: Tzimisce
 progress: placeholder
 image:
+<<<<<<< Updated upstream
   - - mina-portrait.png
+=======
+  - - their-portrait.png
+>>>>>>> Stashed changes
 sourcepage: "Central Utah Fangwatch"
 ---
 <br>
@@ -18,8 +22,13 @@ sourcepage: "Central Utah Fangwatch"
 </div>
 
 >[!infobox]
+<<<<<<< Updated upstream
 > ## Mina Harker
 > ![[mina-portrait.png]]
+=======
+> ## Mina
+> ![[their-portrait.png]]
+>>>>>>> Stashed changes
 >
 > <summary>Full Name</summary>
 >
@@ -44,7 +53,11 @@ sourcepage: "Central Utah Fangwatch"
 >
 > | **Clan** | **Faction** |
 > |---|---|
+<<<<<<< Updated upstream
 > | Tzimisce ![Tzimisce\|25](tzimisce.png) | Unknown ![Camarilla\|25](camarilla.png) |
+=======
+> | Tzimisce ![Tzimisce\|25](toreador.png) | Unknown ![Camarilla\|25](camarilla.png) |
+>>>>>>> Stashed changes
 > 
 > <details>
 > <summary>Organizations</summary>
