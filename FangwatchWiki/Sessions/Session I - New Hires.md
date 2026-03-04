@@ -43,7 +43,7 @@ description: A little over one month ago, Mina Harker ran a test case with three
 |---|
 > <summary>Runtime</summary>
 >
-| 51:47|
+| 5:22:06 |
 |---|
 >
 | **Previous** | **Next** |
