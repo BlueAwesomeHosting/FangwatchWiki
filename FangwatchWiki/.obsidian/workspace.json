@@ -25,6 +25,18 @@
             }
           },
           {
+            "id": "54561ef6003900c7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Backend/Uploads/Portraits/morena-portrait.png"
+              },
+              "icon": "lucide-image",
+              "title": "morena-portrait"
+            }
+          },
+          {
             "id": "d12747356a2e8d05",
             "type": "leaf",
             "state": {
@@ -39,7 +51,8 @@
               "title": "Contribution Portal"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,18 +220,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8dd79f6a6c1baae1",
+  "active": "54561ef6003900c7",
   "lastOpenFiles": [
     "Backend/Uploads/Icons/tzimisce.png",
-    "Backend/Uploads/Icons/tzimche.png",
-    "Backend/Uploads/Artwork/vtm_unreasonable_voice_of_reason.png",
+    "Characters/Mina Harker.md",
+    "Characters/Morena Varley-Beech.md",
+    "Backend/Uploads/Portraits/morena-portrait.png",
+    "Sessions/Session I - New Hires.md",
     "About/Dark War in the Holy Land.md",
     "About/Contribution Portal.md",
-    "Characters/Morena Varley-Beech.md",
     "Backend/Main Database/Templates/Template (Party Member).md",
     "Backend/Main Database/Templates/Template (Character Gallery).md",
-    "Sessions/Session I - New Hires.md",
-    "Backend/Uploads/Portraits/morena-portrait.png",
     "Backend/Main Database/Templates/Quote.md",
     "Backend/Main Database/Bases/Deadlinks.base",
     "Backend/Uploads/Banners",
@@ -238,6 +250,8 @@
     "Backend/Subpages/Morena Varley-Beech (Biography).md",
     "old morena.md",
     "Backend/Uploads/Icons/celerity.png",
+    "Backend/Uploads/Icons/presence.png",
+    "Backend/Uploads/Icons/24px-Celerity_icon.png",
     "Backend/Uploads/Icons/camarilla.png.download",
     "Backend/Uploads/Icons/toreador.png.download",
     "Dark War in the Holy Land.md",
@@ -248,7 +262,6 @@
     "Backend/Main Database/Templates/World Metadata.md",
     "Backend/Main Database/Sandbox/My TTRPG Characters.md",
     "Michelle Monroe.md",
-    "Untitled.md",
     "Willow's Conspiracy Board.canvas",
     "WTA/Goldie Rush.md",
     "WTA/Willow's Conspiracy Board.canvas",
