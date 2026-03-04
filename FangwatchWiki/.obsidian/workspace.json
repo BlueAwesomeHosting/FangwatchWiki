@@ -28,12 +28,15 @@
             "id": "54561ef6003900c7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Backend/Uploads/Portraits/morena-portrait.png"
+                "file": "Characters/Mina Harker.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "morena-portrait"
+              "icon": "lucide-file",
+              "title": "Mina Harker"
             }
           },
           {
@@ -222,10 +225,10 @@
   },
   "active": "54561ef6003900c7",
   "lastOpenFiles": [
-    "Backend/Uploads/Icons/tzimisce.png",
-    "Characters/Mina Harker.md",
-    "Characters/Morena Varley-Beech.md",
     "Backend/Uploads/Portraits/morena-portrait.png",
+    "Characters/Mina Harker.md",
+    "Backend/Uploads/Icons/tzimisce.png",
+    "Characters/Morena Varley-Beech.md",
     "Sessions/Session I - New Hires.md",
     "About/Dark War in the Holy Land.md",
     "About/Contribution Portal.md",
@@ -251,7 +254,6 @@
     "old morena.md",
     "Backend/Uploads/Icons/celerity.png",
     "Backend/Uploads/Icons/presence.png",
-    "Backend/Uploads/Icons/24px-Celerity_icon.png",
     "Backend/Uploads/Icons/camarilla.png.download",
     "Backend/Uploads/Icons/toreador.png.download",
     "Dark War in the Holy Land.md",
