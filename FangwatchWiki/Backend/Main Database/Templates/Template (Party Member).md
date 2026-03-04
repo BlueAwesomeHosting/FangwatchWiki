@@ -5,31 +5,31 @@ tags:
   - fangwatch
   - coterie
 pronouns: She/Her
-player: Ethan
-clan: Toreador
+player: Yourname
+clan: Clanname
 progress: placeholder
 image:
-  - - morena-portrait.png
+  - - their-portrait.png
 sourcepage: "Central Utah Fangwatch"
 ---
 <br>
 <div id="tabs" class="callout-container">
-    <a class="callout-tab active" href="obsidian://open?vault=FangwatchWiki&file=Characters%2FMorena%20Varley-Beech">Main</a>
-    <a class="callout-tab" href="obsidian://open?vault=FangwatchWiki&file=Backend%2FSubpages%2FMorena%20Varley-Beech%20(Gallery)">Gallery</a>
+    <a class="callout-tab active" href="copyobsidianurlofthispage">Main</a>
+    <a class="callout-tab" href="copyobsidianurlofthatpage">Gallery</a>
 </div>
 
 >[!infobox]
-> ## Morena Varley-Beech
-> ![[morena-portrait.png]]
+> ## Name
+> ![[their-portrait.png]]
 >
 > <summary>Full Name</summary>
 >
-> | Morena Roan Varley-Beech |
+> |  |
 > |---|
 >
 > <summary>Pronouns</summary>
 >
-> | She/Her |
+> |  |
 > |---|
 > 
 > <summary>Species</summary>
@@ -38,7 +38,7 @@ sourcepage: "Central Utah Fangwatch"
 > |---|
 > <summary>Generation</summary>
 >
-> | 13th |
+> | Xth |
 > |---|
 > <details open>
 > <summary>Affiliation</summary>
@@ -49,12 +49,12 @@ sourcepage: "Central Utah Fangwatch"
 > 
 > <details>
 > <summary>Organizations</summary>
-> <li>Toxicologist (2000 – 2009)<li>Soap Health Inspector (2010 – 2025)<li>Fangwatch Officer (2025 – )
+> <li>Fangwatch Officer (2025 – )
 > </details>
 > 
 > <details>
 > <summary>Relationships</summary>
-> <li>Antonia Pérez (One-day stand)
+> <li>
 > </details>
 > </details>
 >
@@ -63,7 +63,7 @@ sourcepage: "Central Utah Fangwatch"
 >
 > | **Apparent Age** | **Real Age** |
 > |---|---|
-> | 31 | 48[^1]<br>49[^2] |
+> | 10 | 100  |
 > <details>
 > <summary>Important dates</summary>
 > <li>Born on February 22, 1977<li> Embraced in 2009
@@ -78,11 +78,11 @@ sourcepage: "Central Utah Fangwatch"
 > <summary>Bloodline</summary>
 ><details>
 > <summary>Sire</summary>
-> Unknown Toreador <em>(executed by Central Utah Fangwatch)</em> 
+> Sire Name</em> 
 > </details>
 > <details>
 > <summary>Childer</summary>
-> None mentioned
+> <li>List<li>Childer
 > </details>
 > </details>
 
@@ -212,7 +212,4 @@ ___
 ___
 - Wow isn't
 - That cool?
-
-[^1]: In [[Session I - New Hires]].
-[^2]: In [[Session 6.5 - It is not your time yet...]].
 
