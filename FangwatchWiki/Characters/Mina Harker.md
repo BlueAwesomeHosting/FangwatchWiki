@@ -6,7 +6,7 @@ tags:
 pronouns: She/Her
 player: Madi
 clan: Tzimisce
-progress: placeholder
+progress: completish
 image:
   - - mina-portrait.png
 sourcepage: "Central Utah Fangwatch"
@@ -53,7 +53,7 @@ sourcepage: "Central Utah Fangwatch"
 > 
 > <details>
 > <summary>Relationships</summary>
-> <li>Lucy Westenra<li>Jonathan Harker<li>Abraham Van Helsing<li>Emilie Orien<li>Peggy Johns<li>Terrance Schwartz<li>River Yamagawa
+> <li>Lucy Westenra<span>&#8224;</span><li>Jonathan Harker<span>&#8224;</span><li>Abraham Van Helsing<span>&#8224;</span><li>Emilie Orien<li>Peggy Johns<li>Terrance Schwartz<li>River Yamagawa
 > </details>
 > </details>
 >
@@ -88,7 +88,8 @@ sourcepage: "Central Utah Fangwatch"
 > [!cite] "You are not human anymore, none of us are. Do not think that we have rights; we do not deserve to live."
 > \- Mina to Bartleby on his day off.
 
-**Blah blah blah** blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah.
+**Mina** is the head of and original founder of [[The Fangwatch]] along with her late husband, Jonathan Harker. She is also the actual founder of the [[Church of Neville]].
+Mina chooses to play the role of villain to see her plans through, and to help her see true death with maximum collateral, all so she can see the people she loved yet again.
 
 ```table-of-contents
 title:
@@ -103,7 +104,7 @@ debugInConsole: false # Print debug info in Obsidian console
 ```
 # Personality
 ___
-Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah.
+Strict, but there are still many unknowns in regards to her personality.
 
 # Biography
 ___
@@ -111,15 +112,10 @@ ___
 
 Go read Dracula. 
 
-## Joining Fangwatch
-(*Main article*: [[Session I - New Hires]])
-
-Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah.
-
 <br>
 
 # Trivia
 ___
-- Wow isn't
-- That cool?
+- Drinks kindred blood
+- She likes to keep mementos of accomplishments she has had throughout her life
 
