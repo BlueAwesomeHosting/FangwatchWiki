@@ -23,6 +23,7 @@ ___
 
 # Coterie Members
 ___
+The main party.
 ![[Coterie Search.base]]
 
 # Other Fangwatch Members
