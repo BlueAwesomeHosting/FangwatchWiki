@@ -13,8 +13,8 @@ sourcepage: "Central Utah Fangwatch"
 ---
 <br>
 <div id="tabs" class="callout-container">
-    <a class="callout-tab active" href="copyobsidianurlofthispage">Main</a>
-    <a class="callout-tab" href="copyobsidianurlofthatpage">Gallery</a>
+    <a class="callout-tab active" href="obsidian://open?vault=FangwatchWiki&file=Characters%2FMina%20Harker">Main</a>
+    <a class="callout-tab" href="obsidian://open?vault=FangwatchWiki&file=Backend%2FSubpages%2FMina%20Harker%20(Gallery)">Gallery</a>
 </div>
 
 >[!infobox]
