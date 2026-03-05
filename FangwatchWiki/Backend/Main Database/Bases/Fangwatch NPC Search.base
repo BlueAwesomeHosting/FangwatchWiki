@@ -1,0 +1,47 @@
+formulas:
+  Untitled: ""
+views:
+  - type: cards
+    name: Gallery View
+    filters:
+      and:
+        - file.tags.containsAll("character", "fangwatch")
+        - '!file.tags.contains("coterie")'
+    order:
+      - file.name
+      - clan
+      - pronouns
+      - player
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: image
+        direction: ASC
+      - property: file.ctime
+        direction: DESC
+      - property: world
+        direction: ASC
+    cardSize: 240
+    image: note.image
+    imageFit: ""
+    imageAspectRatio: 1.9
+  - type: table
+    name: List View
+    filters:
+      and:
+        - file.tags.containsAll("character", "fangwatch")
+        - '!file.tags.contains("coterie")'
+    order:
+      - file.name
+      - pronouns
+      - clan
+      - tags
+      - progress
+    sort:
+      - property: progress
+        direction: DESC
+      - property: tags
+        direction: ASC
+    columnSize:
+      note.tags: 459
+      note.progress: 122

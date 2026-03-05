@@ -1,17 +1,8 @@
 ---
 banner: "![[Fangwatch.png]]"
----
----
-<<<<<<< Updated upstream
-banner: "![[Fangwatch.png]]"
----
----
-=======
->>>>>>> Stashed changes
 tags:
   - meta
 progress: placeholder
-banner: "![[Fangwatch.png]]"
 image:
   - - image.png
 banner_x: 0.5
@@ -33,5 +24,9 @@ ___
 # Coterie Members
 ___
 ![[Coterie Search.base]]
+
+# Other Fangwatch Members
+___
+![[Fangwatch NPC Search.base]]
 
 
