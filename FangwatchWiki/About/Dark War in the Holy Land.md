@@ -2,8 +2,11 @@
 banner: "![[Fangwatch.png]]"
 ---
 ---
+banner: "![[fangwatch.png]]"
+---
+---
 <<<<<<< Updated upstream
-banner: "![[Fangwatch.png]]"
+banner: "![[fangwatch.png]]"
 ---
 ---
 =======
@@ -11,7 +14,7 @@ banner: "![[Fangwatch.png]]"
 tags:
   - meta
 progress: placeholder
-banner: "![[Fangwatch.png]]"
+banner: "![[fangwatch.png]]"
 image:
   - - image.png
 banner_x: 0.5

@@ -44,8 +44,7 @@ sourcepage: "Central Utah Fangwatch"
 >
 > | **Clan** | **Faction** |
 > |---|---|
-<<<<<<< Updated upstream
-> | Tzimisce ![Tzimisce\|25](tzimisce.png) | Unknown ![Camarilla\|25](camarilla.png) |
+> | Tzimisce ![Tzimisce\|25](tzimisce.png) | Unknown ![Unknown\|25](unknown.png) |
 > 
 > <details>
 > <summary>Organizations</summary>
@@ -110,101 +109,12 @@ Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah 
 ___
 ## Early Life
 
-Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. 
+Go read Dracula. 
 
- > [!imageR]
-![[vtm_succubus_from_hell.png|200]]  Well? Can she? *(Drawing by Neon)*
-
-Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah.
 ## Joining Fangwatch
 (*Main article*: [[Session I - New Hires]])
 
 Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah.
-# Character Sheet
-___
-> [!info|paper]- ATTRIBUTES
->
-| | *Physical* |
-|---|---|
-| **Strength** | ○ ○ ○ ○ ○ | 
-| **Celerity** | ● ○ ○ ○ ○ |
-| **Presence** | ● ● ● ○ ○ |
->
-| | *Social* |
-|---|---|
-| **Strength** | ○ ○ ○ ○ ○ | 
-| **Celerity** | ● ○ ○ ○ ○ |
-| **Presence** | ● ● ● ○ ○ |
->
-| | *Mental* |
-|---|---|
-| **Strength** | ○ ○ ○ ○ ○ | 
-| **Celerity** | ● ○ ○ ○ ○ |
-| **Presence** | ● ● ● ○ ○ |
-
-> [!info|paper]- SKILLS
->
-|  | *Physical* |  |
-|---|---|---|
-| **Athletics** | ○ ○ ○ ○ ○ | |
-| **Brawl** | ○ ○ ○ ○ ○ | |
-| **Craft** | ○ ○ ○ ○ ○ | |
-| **Drive** | ○ ○ ○ ○ ○ | |
-| **Firearms** | ○ ○ ○ ○ ○ | |
-| **Larceny** | ○ ○ ○ ○ ○ | *Vent crawling* |
-| **Melee** | ○ ○ ○ ○ ○ | |
-| **Stealth** | ● ● ● ○ ○ | |
-| **Survival** | ○ ○ ○ ○ ○ | |
->
-|  | *Social* |  |
-|---|---|---|
-| **Animal Ken** | ○ ○ ○ ○ ○ | |
-| **Etiquette** | ● ○ ○ ○ ○ | |
-| **Insight** | ○ ○ ○ ○ ○ | |
-| **Intimidation** | ● ○ ○ ○ ○ | |
-| **Leadership** | ○ ○ ○ ○ ○ | |
-| **Performance** | ○ ○ ○ ○ ○ | |
-| **Persuasion** | ○ ○ ○ ○ ○ | |
-| **Streetwise** | ○ ○ ○ ○ ○ | |
-| **Subterfuge** | ● ● ● ○ ○ | *Seduction* |
->
-|  | *Mental* |  |
-|---|---|---|
-| **Academics** | ● ● ○ ○ ○ | *Research* |
-| **Awareness** | ○ ○ ○ ○ ○ | |
-| **Finance** | ● ● ○ ○ ○ | |
-| **Investigation** | ○ ○ ○ ○ ○ | |
-| **Medicine** | ● ● ● ● ○ | |
-| **Occult** | ○ ○ ○ ○ ○ | |
-| **Politics** | ○ ○ ○ ○ ○ | |
-| **Science** | ● ● ○ ○ ○ | *Toxicology* |
-| **Technology** | ○ ○ ○ ○ ○ | |
-
-> [!info|paper]- DISCIPLINES
->
-| **Auspex** | ○ ○ ○ ○ ○ |
-|---|---|
-|  |  |
->
-| **Celerity** | ● ○ ○ ○ ○ | 
-|---|---|
-| *Cat’s Grace* |  |
->
-| **Presence** | ● ● ● ○ ○ |
-|---|---|
-| *Lingering Kiss* |  |
-| *Awe* |  |
-| *Entrancement* |  |
->
-| **Merits** |  |  
-|---|---|  
-| Folkloric Block | ● ○ ○ ○ ○ |  
-| Stake Bait | ● ● ○ ○ ○ |  
-| Stunning | ● ● ● ● ○ |  
-| Ingenue | ● ○ ○ ○ ○ |  
-| Nuit Mode | ● ● ○ ○ ○ |  
-| Beautiful | ● ● ○ ○ ○ |  
-| Stalker | ● ○ ○ ○ ○ |
 
 <br>
 

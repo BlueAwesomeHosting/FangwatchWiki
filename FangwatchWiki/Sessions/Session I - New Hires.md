@@ -16,7 +16,7 @@ description: A little over one month ago, Mina Harker ran a test case with three
 
 > [!infobox]
 > ## New Hires
-> ![[Fangwatch.png]]
+> ![[fangwatch.png]]
 > <div>
 > <summary>Session Number</summary>
 >
@@ -77,7 +77,7 @@ ___
 Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah
 
  > [!ImageR]
-![[thepursuer.png|200]]  An example of ImageR. *(Drawing by Neon)*
+![[the-pursuer.png|200]]  An example of ImageR. *(Drawing by Neon)*
 
 ## Fangwatch HQ
 Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah 

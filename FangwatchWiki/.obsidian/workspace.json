@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "c6c5a7d905cfcab3",
+    "id": "064fe1fd0f158d50",
     "type": "split",
     "children": [
       {
-        "id": "8cb0f2094d0258d8",
+        "id": "c1861f151bb7b7b2",
         "type": "tabs",
         "children": [
           {
-            "id": "8dd79f6a6c1baae1",
+            "id": "bbba6937f1134ebb",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,7 +16,7 @@
               "state": {
                 "file": "About/Dark War in the Holy Land.md",
                 "mode": "preview",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "pinned": true,
@@ -25,33 +25,18 @@
             }
           },
           {
-            "id": "54561ef6003900c7",
+            "id": "60f41b4a7d0d5374",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Characters/Mina Harker.md",
                 "mode": "preview",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Mina Harker"
-            }
-          },
-          {
-            "id": "d12747356a2e8d05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "About/Contribution Portal.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Contribution Portal"
             }
           }
         ],
@@ -61,16 +46,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "514c8a604fca384f",
+    "id": "f771b7f30991ea40",
     "type": "split",
     "children": [
       {
-        "id": "c7b60b30a759d42d",
+        "id": "6d823c35c3dc4c45",
         "type": "tabs",
-        "dimension": 58.10126582278481,
         "children": [
           {
-            "id": "51b90e4249fa6560",
+            "id": "df1ac3a4f7b9cdee",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -83,12 +67,12 @@
             }
           },
           {
-            "id": "c3c10a17f77d365e",
+            "id": "60b54d37fef2b4bb",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "1girl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +84,7 @@
             }
           },
           {
-            "id": "d89899f2ae7f6aff",
+            "id": "a76f513757da6025",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,43 +94,26 @@
             }
           }
         ]
-      },
-      {
-        "id": "8c7170bc0f5c58bf",
-        "type": "tabs",
-        "dimension": 41.89873417721519,
-        "children": [
-          {
-            "id": "f0814b008dc0799c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 300
   },
   "right": {
-    "id": "c628c5c497fa9158",
+    "id": "294ed0f68718037d",
     "type": "split",
     "children": [
       {
-        "id": "feddc59901228644",
+        "id": "915b6df5da575778",
         "type": "tabs",
         "children": [
           {
-            "id": "ad02a35388f915a0",
+            "id": "968eafed5a9bb4ef",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/WorldsBackend/VTM Fangwatch/Morena Varley-Beech (Biography).md",
+                "file": "Characters/Mina Harker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,24 +123,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Morena Varley-Beech (Biography)"
+              "title": "Backlinks for Mina Harker"
             }
           },
           {
-            "id": "1c909bbc630f493f",
+            "id": "937059719b1a269d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Mina Harker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Mina Harker"
             }
           },
           {
-            "id": "d0e369d9bb354831",
+            "id": "06a239e4aa1d61be",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -188,97 +156,54 @@
             }
           },
           {
-            "id": "7ba7dec065ad8e36",
+            "id": "4df7f5869aa085d2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "About/Contribution Portal.md",
+                "file": "Characters/Mina Harker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Contribution Portal"
+              "title": "Outline of Mina Harker"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": true,
-      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": true,
-      "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
       "homepage:Open homepage": false
     }
   },
-  "active": "54561ef6003900c7",
+  "active": "60f41b4a7d0d5374",
   "lastOpenFiles": [
-    "Characters/Morena Varley-Beech.md",
+    "Backend/Uploads/Artwork/the-pursuer.png",
+    "Backend/Uploads/Artwork/terrance-haircut.png",
+    "Backend/Uploads/Artwork/peggy-the-undying.png",
+    "Backend/Uploads/Artwork/oracles-of-yuri.png",
+    "Backend/Uploads/Artwork/mina-deadlock.png",
+    "Backend/Uploads/Artwork/morena-cokane.png",
+    "Backend/Uploads/Artwork/mina-gaming.png",
+    "Backend/Uploads/Artwork/guess-we-acab-now.png",
+    "Backend/Uploads/Artwork/hey-coworker.png",
+    "Backend/Uploads/Artwork/gay-is-okay.png",
+    "Backend/Uploads/Artwork/fangwatch-heights.png",
     "Characters/Mina Harker.md",
-    "Sessions/Session I - New Hires.md",
-    "Backend/Uploads/Portraits/mina-portrait.png",
-    "Backend/Uploads/Artwork/vtm_unreasonable_voice_of_reason.png",
-    "Backend/Uploads/Artwork/vtm_succubus_from_hell.png",
-    "Backend/Uploads/Artwork/thepursuer.png",
-    "Backend/Uploads/Artwork/morena-full-key.png",
-    "Backend/Uploads/Artwork/morena-body.png",
-    "Backend/Uploads/Artwork/Fangwatch.png",
-    "About/Dark War in the Holy Land.md",
-    "Backend/Uploads/Portraits/morena-portrait.png",
-    "Backend/Uploads/Icons/tzimisce.png",
-    "About/Contribution Portal.md",
-    "Backend/Main Database/Templates/Template (Party Member).md",
-    "Backend/Main Database/Templates/Template (Character Gallery).md",
-    "Backend/Main Database/Templates/Quote.md",
-    "Backend/Main Database/Bases/Deadlinks.base",
-    "Backend/Uploads/Banners",
-    "Backend/Main Database/Bases/Placeholder Search.base",
-    "Backend/Subpages/Morena Varley-Beech (Gallery).md",
-    "Backend/Main Database/Bases/Coterie Search.base",
-    "Backend/Main Database/Bases/Sessions.base",
-    "Backend/Uploads/Icons/auspex.png",
-    "Backend/Subpages/Transcripts/Session I - New Hires (Transcript).md",
-    "Backend/Main Database/Bases/Stub Search.base",
-    "Backend/Main Database/Bases/Embed Count Search.base",
-    "Backend/Subpages/Morena Varley-Beech (Biography).md",
-    "old morena.md",
-    "Backend/Uploads/Icons/camarilla.png.download",
-    "Backend/Uploads/Icons/toreador.png.download",
-    "Dark War in the Holy Land.md",
-    "Backend/Uploads/Artwork",
-    "Backend/Main Database/Templates/Default/Detailed Character/Character (Relationships).md",
-    "Backend/Main Database/Templates/Default/Detailed Character/Default Infobox.md",
-    "Backend/Main Database/Templates/Character Metadata.md",
-    "Backend/Main Database/Templates/World Metadata.md",
-    "Backend/Main Database/Sandbox/My TTRPG Characters.md",
-    "Michelle Monroe.md",
-    "Willow's Conspiracy Board.canvas",
-    "WTA/Goldie Rush.md",
-    "WTA/Willow's Conspiracy Board.canvas",
-    "Untitled.canvas",
-    "VTM Fangwatch/Characters/Blake \"Dobbs\" Robbins.md",
-    "CAIN/CAIN.md",
-    "CAIN/Exorcist Questionnaire - X148.md",
-    "CAIN/Exorcist Questionnaire - X034.md",
-    "CAIN/Exorcist Questionnaire - X099.md",
-    "Worlds/Dishonored Campaign/DISHONORED - SHARD OF PANDYSSIA.canvas",
-    "Backend/Galleries/Sera.canvas",
-    "Archive/Not Sorted/Archive/Bolton's Notebook.canvas",
-    "Backend/Galleries/EverGallery.canvas",
-    "Archive/Not Sorted/Archive/Worlds/Cain/Other/Harvey Flowchart.canvas",
-    "Archive/Not Sorted/Archive/UNREGISTERED ENTITIES/Boa Rottveier-Gallery.canvas",
-    "Backend/Galleries/AlarelGallery.canvas"
+    "About/Dark War in the Holy Land.md"
   ]
 }
