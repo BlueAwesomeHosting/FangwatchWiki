@@ -104,7 +104,8 @@ debugInConsole: false # Print debug info in Obsidian console
 ```
 # Personality
 ___
-Strict, but there are still many unknowns in regards to her personality.
+Strict, secretive, and suicidal.
+There are still many unknowns in regards to her personality.
 
 # Biography
 ___
