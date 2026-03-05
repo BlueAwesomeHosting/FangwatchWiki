@@ -207,8 +207,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "df1ac3a4f7b9cdee",
+  "active": "cf06e5523e054b0a",
   "lastOpenFiles": [
+    "Backend/Uploads/Artwork/antonia-drapes.png",
+    "Characters/Mina Harker.md",
+    "About/Dark War in the Holy Land.md",
+    "About/Contribution Portal.md",
     "Backend/Subpages/Mina Harker (Gallery).md",
     "Backend/Uploads/Artwork/fangwatch-heights.png",
     "Backend/Uploads/Artwork/oracles-of-yuri.png",
@@ -219,12 +223,8 @@
     "Backend/Uploads/Artwork/mina-offering.png",
     "Backend/Uploads/Artwork/coterie-emotes.png",
     "Backend/Uploads/Artwork/mina-jesus.png",
-    "Backend/Uploads/Artwork/mina-yaoi.png",
-    "Characters/Mina Harker.md",
     "Backend/Subpages/Morena Varley-Beech (Gallery).md",
     "Characters/Morena Varley-Beech.md",
-    "About/Contribution Portal.md",
-    "About/Dark War in the Holy Land.md",
     "Backend/Main Database/Bases/Fangwatch NPC Search.base"
   ]
 }

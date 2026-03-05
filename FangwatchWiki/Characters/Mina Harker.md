@@ -53,7 +53,7 @@ sourcepage: "Central Utah Fangwatch"
 > 
 > <details>
 > <summary>Relationships</summary>
-> <li>
+> <li>Lucy Westenra<li>Jonathan Harker<li>Abraham Van Helsing<li>Emilie Orien<li>Peggy Johns<li>Terrance Schwartz<li>River Yamagawa
 > </details>
 > </details>
 >
@@ -65,7 +65,7 @@ sourcepage: "Central Utah Fangwatch"
 > | 25 | 172  |
 > <details>
 > <summary>Important dates</summary>
-> <li>Born on February 22, 1977<li> Embraced in 2009
+> <li>Born Undecided<li> Embraced in 1898
 > </details>
 >  <details>
 > <summary>Status</summary>
@@ -85,8 +85,8 @@ sourcepage: "Central Utah Fangwatch"
 > </details>
 > </details>
 
-> [!cite] "Thing that I'm saying!"
-> \- Thing Sayer's thing to say
+> [!cite] "You are not human anymore, none of us are. Do not think that we have rights; we do not deserve to live."
+> \- Mina to Bartleby on his day off.
 
 **Blah blah blah** blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah.
 
