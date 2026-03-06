@@ -6,7 +6,7 @@ tags:
 pronouns: She/Her
 player: Madi
 clan: Malkavian
-progress: placeholder
+progress: completish
 image:
   - - emilie-portrait.png
 sourcepage: "Central Utah Fangwatch"
