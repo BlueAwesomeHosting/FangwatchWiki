@@ -62,10 +62,10 @@ sourcepage: "Central Utah Fangwatch"
 >
 > | **Apparent Age** | **Real Age** |
 > |---|---|
-> | 25 | 172  |
+> | 25 | 152  |
 > <details>
 > <summary>Important dates</summary>
-> <li>Born Undecided<li> Embraced in 1898
+> <li>Born April 4th, 1873<li> Embraced in 1898
 > </details>
 >  <details>
 > <summary>Status</summary>
