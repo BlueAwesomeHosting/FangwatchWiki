@@ -53,7 +53,7 @@ sourcepage: "Central Utah Fangwatch"
 > 
 > <details>
 > <summary>Relationships</summary>
-> <li>Lucy Westenra<span>&#8224;</span><li>Jonathan Harker<span>&#8224;</span><li>Abraham Van Helsing<span>&#8224;</span><li>Emilie Orien<li>Peggy Johns<li>Terrance Schwartz<li>River Yamagawa
+> <li>Lucy Westenra<span>&#8224;</span><li>Jonathan Harker<span>&#8224;</span><li>Abraham Van Helsing<span>&#8224;</span><li>Emilie Orien<li>Peggy Johns<li>Rauva/Theria Hunter<li>Terrance Schwartz<li>River Yamagawa
 > </details>
 > </details>
 >
@@ -81,7 +81,7 @@ sourcepage: "Central Utah Fangwatch"
 > </details>
 > <details>
 > <summary>Childer</summary>
-> <li>Rauva
+> <li>Rauva/Theria Hunter
 > </details>
 > </details>
 
@@ -118,5 +118,7 @@ Go read Dracula.
 # Trivia
 ___
 - Drinks kindred blood
-- She likes to keep mementos of accomplishments she has had throughout her life
+- Mina likes to keep mementos of accomplishments she has had throughout her life
+- Mina's name tag is the only with a gold finish; every other officer has a tag with a silver finish
+- Enjoys reading a lot
 
