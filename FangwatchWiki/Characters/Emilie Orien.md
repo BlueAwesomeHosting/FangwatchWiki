@@ -130,4 +130,5 @@ ___
 - Emilie always carries a textbook with her. It serves no purpose other than for sentimental value
 - The cardigan Emilie always wears was a gift from Mina
 - Emilie was well regarded for her philosophy on criminal psychology
+- Preferred blood type is O- as she claims the lack of antigens make the blood smooth
 
