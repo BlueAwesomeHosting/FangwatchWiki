@@ -43,9 +43,9 @@ sourcepage: "Central Utah Fangwatch"
 > <details open>
 > <summary>Affiliation</summary>
 >
-> | **Malkavian** | **Camarilla** |
+> | **Clan** | **Faction** |
 > |---|---|
-> | Toreador ![Toreador\|25](toreador.png) | Camarilla ![Camarilla\|25](camarilla.png) |
+> | Malkavian ![Malkavian\|25](malkavian.png) | Camarilla ![Camarilla\|25](camarilla.png) |
 > 
 > <details>
 > <summary>Organizations</summary>
