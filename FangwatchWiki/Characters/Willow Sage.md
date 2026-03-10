@@ -63,10 +63,10 @@ sourcepage: "Central Utah Fangwatch"
 >
 > | **Apparent Age** | **Real Age** |
 > |---|---|
-> | 10 | 100  |
+> | 32 | 32  |
 > <details>
 > <summary>Important dates</summary>
-> <li>Born on February 22, 1977<li> Embraced in 2009
+> <li>Born on March 27th, 1993<li> Embraced in 2025
 > </details>
 >  <details>
 > <summary>Status</summary>
